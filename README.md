@@ -28,6 +28,8 @@ A lightweight HTTP server built using raw **Winsock2** on Windows. It serves sta
 
 - C Compiler with `Winsock2` support
 
+*This project doesn't support linux yet as i have build this in windows but in later update i will update this*
+
 ---
 ## 🧱 Folder Structure
 
